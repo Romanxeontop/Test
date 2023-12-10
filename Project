@@ -1,0 +1,18 @@
+$ git commit -m "init commit"
+[master bab3c7a] init commit
+ 17 files changed, 266 insertions(+), 10 deletions(-)
+ create mode 100644 Project/.vs/Project/FileContentIndex/ca749c2a-8e57-4b12-a10d-441a4fa46d2e.vsidx
+ create mode 100644 Project/.vs/Project/FileContentIndex/fb27c42a-6b5a-4cdc-93e1-eb09f23d3947.vsidx
+ rewrite Project/.vs/Project/v17/.suo (82%)
+ create mode 100644 Project/.vs/Project/v17/ipch/AutoPCH/bd29ed51a7431e0f/PROJECT.ipch
+ create mode 100644 Project/Project/Project.cpp
+ create mode 100644 Project/Project/Project.h
+ create mode 100644 Project/Project/Project.ico
+ create mode 100644 Project/Project/Project.rc
+ create mode 100644 Project/Project/Project.vcxproj
+ create mode 100644 Project/Project/Project.vcxproj.filters
+ create mode 100644 Project/Project/Project.vcxproj.user
+ create mode 100644 Project/Project/Resource.h
+ create mode 100644 Project/Project/framework.h
+ create mode 100644 Project/Project/small.ico
+ create mode 100644 Project/Project/targetver.h
